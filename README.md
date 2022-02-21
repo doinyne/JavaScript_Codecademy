@@ -1,1 +1,1 @@
-A repo for code create from codecademy
+A repo for code created from codecademy
